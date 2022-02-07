@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/VictorSM01/boilerplate-arithmetic-formatter)](https://repl.it/github/VictorSM01/boilerplate-arithmetic-formatter)
+
 ### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
